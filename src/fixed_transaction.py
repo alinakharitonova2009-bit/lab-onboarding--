@@ -1,8 +1,10 @@
 def get_balance(user_id):
     return 100
 
+
 def update_balance(user_id, new_balance):
     pass
+
 
 def process_transaction(user_id, amount, db_connection):
     status = "pending"
