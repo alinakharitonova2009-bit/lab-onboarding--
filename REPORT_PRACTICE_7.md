@@ -34,3 +34,7 @@ import os; os.system('rm -rf /')
 Максимальная длина строки 80, исключены папки docs и .git.
 
 ### 4.2. Ссылка на Pull Request
+https://github.com/alinakharitonova2009-bit/lab-onboarding--/pull/6
+
+### 4.3. Скриншот зеленого статуса проверки
+<img width="1254" height="1083" alt="screenshot" src="https://github.com/user-attachments/assets/f3dc39af-d38f-444d-9101-753196f7d5bd" />
