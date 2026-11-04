@@ -1,226 +1,43 @@
-Диагностика компьютера
+============================================================
+Диагностика и аудит компьютера
+Дата: 04.11.2026.. Время: 21:50
 ============================================================
 
 Операционная система:
 Название: Майкрософт Windows 11 Pro
-Версия: 10.0.26300
 
 Процессор:
-Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz
+Intel[R] Core[TM] i7-10700K CPU @ 3.80GHz
 
-Память:
-Всего памяти: 16 ГБ
-Свободно памяти: 9 ГБ
+Оперативная память:
+Всего: 15.9 ГБ, Свободно: 9 ГБ
 
 Диск C:
-Всего места: 476 ГБ
-Свободно места: 51 ГБ
+Всего: 475.9 ГБ, Свободно: 51.2 ГБ
 
-Установленные программы:
-AutoHotkey 1.1.37.02 
-Git 
-OpenVPN 2.4.8-I602-Win10  
-Portmaster 
-PostGIS Bundle 3.6.2 for PostgreSQL x64 18 (remove only) 
-PostgreSQL 18  
-Microsoft Office LTSC профессиональный плюс 2024 - ru-ru 
-psqlODBC 13.02.0000 
-Terraria 
-Deadlock 
-Goose Goose Duck 
-Wallpaper Engine 
-Fart Together Demo 
-Left! Left! LEFT! Playtest 
-Dota 2 
-Soundpad 
-Counter-Strike 2 
-TAP-Windows 9.24.2 
-My Game Long Name 
-Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.56336 False 
-ENE_AIC_Marvell_HAL 
-FACEIT Anti-Cheat 
-Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219 
-Microsoft Update Health Tools 
-Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649 False 
-Microsoft Windows Application Compatibility Fix Database 
-7-Zip 24.09 (x64 edition) 
-ENE_External_Device_HAL 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.0 False 
-Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610 False 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022 False 
-ENE_EHD_M2_HAL 
-Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 
-Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.51106 False 
-ENE_DRAM_RGB_AIO 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 False 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729 False 
-КриптоПро CSP 
-Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664 
-Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660 False 
-Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.51106 False 
-HP Unified IO 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161 
-Проверка работоспособности ПК Windows 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.59192 False 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.42 False 
-Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247 
-Java 8 Update 491 (64-bit) 
-Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610 False 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17 False 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.5570 False 
-Patriot Viper M2 SSD RGB 
-Office 16 Click-to-Run Licensing Component 
-Office 16 Click-to-Run Extensibility Component 
-Office 16 Click-to-Run Localization Component 
-UE Prerequisites (x64) 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4048 False 
-Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 False 
-Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247 
-ENE_MousePad_HAL 
-Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727 False 
-Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 False 
-Microsoft Teams Meeting Add-in for Microsoft Office 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.51011 False 
-Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649 False 
-Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727 False 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000 
-NVIDIA Графический драйвер 582.66 
-NVIDIA App 11.0.5.420 
-NVIDIA MessageBus 3 for NvApp 
-NVIDIA Backend 
-NvCpl 
-NVIDIA Системное программное обеспечение PhysX 9.23.1019 
-NVIDIA FrameView SDK 1.5.11504.36206172 
-NVIDIA Аудиодрайвер HD 1.4.5.7 
-NVIDIA Install Application 
-NVIDIA Container 
-NVIDIA AIUser Container 
-NVIDIA LocalSystem Container 
-NVIDIA Session Container 
-NVIDIA User Container 
-NVIDIA NvDLISR 
-NVIDIA Watchdog Plugin for NvContainer 
-NVIDIA Telemetry Client 
-NVIDIA ShadowPlay 11.0.5.400 
-NVIDIA Virtual Audio 4.65.0.3 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.4053 False 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.218 False 
-EA app 
-Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660 False 
-Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 
-ENE_X_AIC_HAL 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.0 False 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30411 False 
-Update for x64-based Windows Systems (KB5001716) 
-КриптоПро ЭЦП Browser plug-in 
-WD P40 Game Drive 
-Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148.0 False 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.57102 False 
-Microsoft Build of OpenJDK with Hotspot 17.0.8+7 (x64) 
-Плагин пользователя систем электронного правительства (версия 3.1.1.0) x64 
-Microsoft Visual C++ 2005 Redistributable - x64 8.0.58298 False 
-Cult of the Lamb 
-AnyDesk 
-AORUS ENGINE 
-Cisco Secure Client - AnyConnect VPN  
-Foxit PDF Reader 
-Google Chrome 
-@BIOS 
-REALTEK Wireless LAN Driver 
-K-Lite Mega Codec Pack 18.4.8 
-Hamachi 
-Microsoft Edge 
-Среда выполнения Microsoft Edge WebView2 Runtime 
-OpenAL 
-PostgreSQL 18 (64bit) 
-psqlODBC 13.02.0000 
-Rainmeter 
-Steam 
-TLauncher 
-VPNMaster 3.25.1.0 stable 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148.0 False 
-Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 False Eng 
-Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 False Eng 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False 
-Patriot Viper M2 SSD RGB 
-Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247 
-Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 False 
-Epic Online Services 
-Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 False 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False 
-ZET Fury 3327 
-Microsoft XNA Framework Redistributable 4.0 
-UE Prerequisites (x64) 
-Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727 False 
-Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 False Eng 
-ENE_External_Device_HAL 
-Epic Games Launcher 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False 
-Red Shield VPN, версия 4.1.24 
-Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False 
-Launcher Prerequisites (x64) 
-DisplayCAL 
-Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 
-Java Auto Updater 
-Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36247 
-EA app 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.0 False 
-Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36247 
-HP Product FWUpdater 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False 
-ENE_EHD_M2_HAL 
-Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001 
-NMH Transport 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False 
-WD P40 Game Drive 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.4053 False 
-Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660 False 
-Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False 
-ENE_AIC_Marvell_HAL 
-Saby 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False 
-Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 
-Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 False Eng 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False 
-Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 
-Cisco Secure Client - AnyConnect VPN 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False 
-Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649 False 
-Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 
-Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 False 
-Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 
-ENE_MousePad_HAL 
-Hamachi 
-HP LaserJet Pro MFP M125-M126 
-Radmin VPN 2.0.9 
-@BIOS 
-ENE_DRAM_RGB_AIO 
-Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 False Eng 
-Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 
-Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 
-Microsoft Visual C++ 2005 Redistributable - x86 8.0.57103 False 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False 
-Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649 False 
-Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660 False 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False 
-Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False 
-Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False 
-ENE_X_AIC_HAL 
-Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 
-Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219 
-HP Unified IO 
-Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 False Eng 
-Saby Center 
-Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 False 
-Viber 
-Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727 False 
-Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False 
-RGB Fusion 
+Сбор списка установленных программ (это может занять время)...
+Установленные программы сохранены в отчете.
 
-Отчёт сохранён
+============================================================
+РЕКОМЕНДАЦИИ: Отсутствующее базовое ПО
+============================================================
+[OK] Офисный пакет: Microsoft Office LTSC профессиональный плюс 2024 - ru-ru
+[OK] Браузер: Google Chrome
+[OK] Чтение PDF: Foxit PDF Reader
+[OK] Архиватор: 7-Zip 24.09 (x64 edition)
+[] Не обнаружен(а) Антивирус. Рекомендуется установить.
+
+============================================================
+РЕКОМЕНДАЦИИ: Излишнее или потенциально нежелательное ПО
+Внимание: это рекомендация к проверке, а не к удалению
+============================================================
+[-] Игровое ПО: не обнаружено.
+[-] Торрент-клиенты: не обнаружено.
+[-] Мессенджеры: не обнаружено.
+[-] Развлечения и оформление: не обнаружено.
+Излишнего ПО из черного списка не обнаружено.
+
+============================================================
+Работа завершена.
+Отчёт сохранён по пути: C:\Users\Vlad\lab-onboarding--\client-check\pc_report.txt
+============================================================
